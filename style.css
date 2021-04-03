@@ -36,4 +36,61 @@
   .intro {
       padding-top: 100px;
   }
+
+  .about {
+      text-align: center;
+  }
   
+  /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33%;
+    padding: 3px;
+  }
+
+  .column1 {
+    float: left;
+    width: 20%;
+    padding: 40px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .Projects {
+      text-align: center;
+  }
+
+  .card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+  h1{
+    text-align: center;
+  }
+  
+  
+
+  .con {
+    text-align: center;
+  }
+
+  #Contacts {
+    background-color: #d6c912;
+  }
+
