@@ -20,11 +20,10 @@ To fix a bug or enhance an existing module, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
-## Built with
+##Built with
 -  HTML .
 -  css .
 ## Author
 - Abdiaziz Hussein Mohamed
 ## License
-[MIT](https://github.com/Abdisamad100/Portfolio/blob/master/LICENSE.md)
- © [Abdisamad Mohamed] (https://github.com/Abdisamad100)
+[MIT]
